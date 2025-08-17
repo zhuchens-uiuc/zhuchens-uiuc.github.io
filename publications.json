@@ -1,0 +1,146 @@
+{
+  "publications": [
+    {
+      "title": "Investigating the impact of data consistency in task‐informed learned image reconstruction method",
+      "venue": "SPIE MI, 2025",
+      "authors": [
+        "Zhuchen Shao",
+        "Changjie Lu",
+        "Kaiyan Li",
+        "Hua Li",
+        "Mark Anastasio"
+      ],
+      "links": {
+        "pdf": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/3047215/Investigating-the-impact-of-data-consistency-in-task-informed-learned/10.1117/12.3047215.short"
+      },
+      "selected": 1
+    },
+    {
+      "title": "Prior‐guided diffusion model for cell‐level segmentation in quantitative phase imaging",
+      "venue": "SPIE MI, 2025",
+      "authors": [
+        "Zhuchen Shao",
+        "Mark Anastasio",
+        "Hua Li"
+      ],
+      "links": {
+        "pdf": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13413/1341302/Prior-guided-diffusion-model-for-cell-level-segmentation-in-quantitative/10.1117/12.3048507.full"
+      },
+      "selected": 0
+    },
+    {
+      "title": "Semi‐Supervised Semantic Segmentation of Cell Nuclei via Diffusion‐based Pre‐Training and Collaborative Learning",
+      "venue": "JMI, 2025",
+      "authors": [
+        "Zhuchen Shao",
+        "Sourya Sengupta",
+        "Hua Li",
+        "Mark Anastasio"
+      ],
+      "links": {
+        "pdf": "https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-6/061403/Semi-supervised-semantic-segmentation-of-cell-nuclei-with-diffusion-model/10.1117/1.JMI.12.6.061403.short"
+      },
+      "selected": 0
+    },
+    {
+      "title": "AugDiff: Diffusion based Feature Augmentation for Multiple Instance Learning in Whole Slide Image",
+      "venue": "TAI, 2024",
+      "authors": [
+        "Zhuchen Shao",
+        "Liuxi Dai",
+        "Yifeng Wang",
+        "Haoqian Wang",
+        "Yongbing Zhang"
+      ],
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/10666706"
+      },
+      "selected": 0
+    },
+    {
+      "title": "LNPL‐MIL: Learning from Noisy Pseudo Labels for Promoting Multiple Instance Learning in Whole Slide Image",
+      "venue": "ICCV, 2023",
+      "authors": [
+        "Zhuchen Shao",
+        "Yifeng Wang",
+        "Yang Chen",
+        "Hao Bian",
+        "Shaohui Liu",
+        "Haoqian Wang",
+        "Yongbing Zhang"
+      ],
+      "links": {
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_LNPL-MIL_Learning_from_Noisy_Pseudo_Labels_for_Promoting_Multiple_Instance_ICCV_2023_paper.pdf"
+      },
+      "selected": 0
+    },
+    {
+      "title": "HVTSurv: Hierarchical Vision Transformer for Patient‐level Survival Prediction from Whole Slide Image",
+      "venue": "AAAI, 2023",
+      "authors": [
+        "Zhuchen Shao",
+        "Yang Chen",
+        "Hao Bian",
+        "Jian Zhang",
+        "Guojun Liu",
+        "Yongbing Zhang"
+      ],
+      "links": {
+        "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/25315"
+      },
+      "selected": 0
+    },
+    {
+      "title": "dMIL‐Transformer: Multiple Instance Learning via Integrating Morphological and Spatial Information for Lymph Node Metastasis Classification",
+      "venue": "JBHI, 2023",
+      "authors": [
+        "Yang Chen*",
+        "Zhuchen Shao*",
+        "Hao Bian*",
+        "Zijie Fang",
+        "Yifeng Wang",
+        "Yuanhao Cai",
+        "Haoqian Wang",
+        "Yongbing Zhang"
+      ],
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/10149342"
+      },
+      "selected": 0
+    },
+    {
+      "title": "Multiple Instance Learning with Mixed Supervision in Gleason Grading",
+      "venue": "MICCAI, 2022",
+      "authors": [
+        "Hao Bian*",
+        "Zhuchen Shao*",
+        "Yang Chen*",
+        "Yifeng Wang",
+        "Haoqian Wang",
+        "Jian Zhang",
+        "Yongbing Zhang"
+      ],
+      "links": {
+        "pdf": "https://arxiv.org/abs/2206.12798"
+      },
+      "selected": 0
+    },
+    {
+      "title": "TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification",
+      "venue": "NeurIPS, 2021",
+      "authors": [
+        "Zhuchen Shao*",
+        "Hao Bian*",
+        "Yang Chen*",
+        "Yifeng Wang",
+        "Jian Zhang",
+        "Xiangyang Ji",
+        "Yongbing Zhang"
+      ],
+      "links": {
+        "pdf": "https://proceedings.neurips.cc/paper/2021/hash/10c272d06794d3e5785d5e7c5356e9ff-Abstract.html"
+      },
+      "selected": 0
+    }
+  ]
+}

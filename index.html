@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Academic Homepage">
+    <meta name="keywords" content="Computer Science, PhD Student, Research, Machine Learning, Robotics">
+    <meta name="author" content="Anonymous">
+    <meta property="og:title" content="Academic Homepage - PhD Student">
+    <meta property="og:description" content="Research in computer science and related fields.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="#">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@anonymous">
+    <title>Academic Homepage</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body id="top">
+    <header>
+        <div class="header-content">
+            <h1>Zhuchen Shao</h1>
+            <p>ECE PhD Student • UIUC</p>
+            <div class="social-links-header">
+                <a href="https://scholar.google.com.hk/citations?user=AGmtoloAAAAJ"><i class="fas fa-graduation-cap"></i>Google Scholar</a>
+                <a href="https://x.com/shao_zc"><i class="fab fa-twitter"></i>X</a>
+                <a href="https://github.com/zhuchens-uiuc"><i class="fab fa-github"></i>GitHub</a>
+                <a href="zhuchens@illinois.edu"><i class="fas fa-envelope"></i>Email</a>
+                <a href="CV_Zhuchen_Shao.pdf" target="_blank"><i class="fas fa-file-pdf"></i>CV</a>
+            </div>
+        </div>
+        <div class="header-image">
+            <img src="images/profile.jpg" alt="Profile Photo">
+        </div>
+    </header>
+
+    <main>
+        <section id="about">
+            <p>Hi! I am a PhD student in Electrical and Computer Engineering at UIUC, advised by <a href="https://yaoyaoliu.web.illinois.edu/">Prof. Yaoyao Liu</a>.</p>
+        </section>
+
+        <section id="research">
+            <h2>Research</h2>
+            <p>My research focuses on <strong>Video Editing and Medical Imaging</strong>. My recent works explore:</p>
+            <ul>
+                <li>Video Editing </li>
+                <li>Medical Imaging and Analysis (<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/3047215/Investigating-the-impact-of-data-consistency-in-task-informed-learned/10.1117/12.3047215.short">[SPIE MI]'25</a>, <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-6/061403/Semi-supervised-semantic-segmentation-of-cell-nuclei-with-diffusion-model/10.1117/1.JMI.12.6.061403.short">[JMI]'25</a>, <a href="https://ieeexplore.ieee.org/document/10666706">[TAI]'24</a>, <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_LNPL-MIL_Learning_from_Noisy_Pseudo_Labels_for_Promoting_Multiple_Instance_ICCV_2023_paper.pdf">[ICCV]'23</a>,<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25315">[AAAI]'23</a>,<a href="https://proceedings.neurips.cc/paper/2021/hash/10c272d06794d3e5785d5e7c5356e9ff-Abstract.html">[NeurIPS]'21</a>)</li>
+            </ul>
+        </section>
+
+        <section id="news">
+            <h2>News</h2>
+            <div class="news-container">
+                <ul class="news-list">
+                    <li>[07/2025]: Gave a presentation at AAPM 2025 in Washington, D.C.</li>
+                    <li>[02/2025]: Gave three presentations at SPIE Medical Imaging 2025 in San Diego.</li>
+                    <li>[08/2024]: Excited to start my PhD in Electrical and Computer Engineering at UIUC 🎉!</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="publications">
+            <div class="publications-header">
+                <h2 id="toggle-header">Selected Publications</h2>
+                <button id="toggle-publications" class="toggle-publications">Show All</button>
+            </div>
+            <div id="publications-container">
+                <!-- Publications will be dynamically loaded here -->
+            </div>
+        </section>
+
+        <section id="awards">
+            <h2>Awards</h2>
+            <div class="award-item">
+                <span class="award-year">[2023]</span>
+                <div class="award-desc">National Scholarship (top 1%), Tsinghua University</div>
+            </div>
+        </section>
+
+        <section id="services">
+            <h2>Services</h2>
+            <div class="service-category">
+                <div class="service-title">Reviewer</div>
+                <p>[CVPR], [NeurIPS], [AAAI], [TMI]</p>
+            </div>
+        </section>
+
+        <!-- <section id="miscellaneous">
+            <h2>Miscellaneous</h2>
+            <div class="misc-item">
+                <p>[Optional] Share your hobbies and interests here.</p>
+            </div>
+        </section> -->
+    </main>
+
+    <footer>
+        <p>Last updated: [Aug 2025]. Design and source code from <a href="https://cs.stanford.edu/~yuhuiz/">Yuhui Zhang's website</a>.</p>
+    </footer>
+
+    <div id="imageModal" class="modal">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+    <script src="scripts.js?v=2"></script>
+</body>
+</html>
