@@ -1,6 +1,17 @@
 {
   "publications": [
     {
+      "title": "Beyond Answer-by-Default: Reliable Streaming Video QA via Evidence-Aware and Clarification-Augmented Hybrid Memory",
+      "venue": "Manuscript in preparation",
+      "authors": [
+        "Zhuchen Shao",
+        "Bo Chen",
+        "Klara Nahrstedt"
+      ],
+      "links": {},
+      "selected": 1
+    },
+    {
       "title": "Investigating the impact of data consistency in task‐informed learned image reconstruction method",
       "venue": "SPIE MI, 2025",
       "authors": [
@@ -13,7 +24,7 @@
       "links": {
         "pdf": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/3047215/Investigating-the-impact-of-data-consistency-in-task-informed-learned/10.1117/12.3047215.short"
       },
-      "selected": 1
+      "selected": 0
     },
     {
       "title": "Prior‐guided diffusion model for cell‐level segmentation in quantitative phase imaging",
