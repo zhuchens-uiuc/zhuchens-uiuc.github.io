@@ -1,8 +1,8 @@
 {
   "publications": [
     {
-      "title": "Beyond Answer-by-Default: Reliable Streaming Video QA via Evidence-Aware and Clarification-Augmented Hybrid Memory",
-      "venue": "Manuscript in preparation",
+      "title": "StreamClarify: Proactive Clarification with Hierarchical Memory for Streaming Video QA",
+      "venue": "Under Review, ECCV 2026",
       "authors": [
         "Zhuchen Shao",
         "Bo Chen",
