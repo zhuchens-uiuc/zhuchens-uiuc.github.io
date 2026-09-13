@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" viewBox="0 0 480 330">
+  <rect width="480" height="330" fill="#edf4f2"/>
+  <g font-family="Source Sans 3, Arial, sans-serif">
+    <text x="28" y="35" font-size="26" fill="#53786d" letter-spacing="1">STREAMING VIDEO</text>
+    <path d="M40 130H438" stroke="#b9d1c9" stroke-width="2"/>
+    <path d="M431 124L438 130L431 136" fill="none" stroke="#739b8e" stroke-width="2"/>
+    <g fill="#fff" stroke="#bdd3cb" stroke-width="2">
+      <rect x="31" y="65" width="88" height="53" rx="5"/>
+      <rect x="139" y="65" width="88" height="53" rx="5"/>
+      <rect x="247" y="65" width="88" height="53" rx="5"/>
+      <rect x="355" y="65" width="88" height="53" rx="5"/>
+    </g>
+    <g fill="#9bbeb1"><rect x="43" y="95" width="14" height="12" rx="2"/><rect x="151" y="86" width="25" height="21" rx="2"/><rect x="259" y="78" width="36" height="29" rx="2"/><rect x="367" y="73" width="45" height="34" rx="2"/></g>
+    <text x="240" y="156" text-anchor="middle" font-size="26" fill="#54796d">Video stream</text>
+    <path d="M141 166V184" stroke="#85a99b" stroke-width="2"/>
+    <rect x="40" y="197" width="201" height="21" rx="4" fill="#bed6cd"/>
+    <rect x="63" y="220" width="155" height="21" rx="4" fill="#89b4a3"/>
+    <rect x="87" y="243" width="106" height="21" rx="4" fill="#548873"/>
+    <text x="140" y="298" text-anchor="middle" font-size="26" fill="#426d5d">Hierarchical memory</text>
+    <path d="M251 227H276M269 221L276 227L269 233" fill="none" stroke="#7d9f92" stroke-width="2"/>
+    <path d="M299 185H426Q438 185 438 197V247Q438 259 426 259H324L304 273V259H299Q287 259 287 247V197Q287 185 299 185Z" fill="#fff" stroke="#bdd3cb" stroke-width="2"/>
+    <text x="362" y="216" text-anchor="middle" font-size="26" fill="#38624f">Clarify</text>
+    <text x="362" y="242" text-anchor="middle" font-size="26" fill="#426d5d">↓ Answer</text>
+  </g>
+</svg>

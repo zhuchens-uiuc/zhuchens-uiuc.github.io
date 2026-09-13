@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" viewBox="0 0 480 330">
+  <rect width="480" height="330" fill="#f4f0f5"/>
+  <g font-family="Source Sans 3, Arial, sans-serif">
+    <text x="28" y="35" font-size="26" fill="#7e6686" letter-spacing="1">WHOLE-SLIDE UNDERSTANDING</text>
+    <rect x="28" y="69" width="154" height="154" rx="7" fill="#fff" stroke="#ddd0e0" stroke-width="2"/>
+    <g fill="#d9b9d3"><rect x="40" y="81" width="38" height="38" rx="3"/><rect x="85" y="81" width="38" height="38" rx="3"/><rect x="130" y="81" width="38" height="38" rx="3"/><rect x="40" y="126" width="38" height="38" rx="3"/><rect x="85" y="126" width="38" height="38" rx="3"/><rect x="130" y="126" width="38" height="38" rx="3"/><rect x="40" y="171" width="38" height="38" rx="3"/><rect x="85" y="171" width="38" height="38" rx="3"/><rect x="130" y="171" width="38" height="38" rx="3"/></g>
+    <g fill="#a27ca8"><ellipse cx="59" cy="98" rx="10" ry="5"/><ellipse cx="109" cy="106" rx="6" ry="8"/><ellipse cx="150" cy="94" rx="8" ry="6"/><ellipse cx="59" cy="146" rx="6" ry="9"/><ellipse cx="98" cy="142" rx="9" ry="6"/><ellipse cx="151" cy="148" rx="7" ry="9"/><ellipse cx="59" cy="191" rx="10" ry="6"/><ellipse cx="101" cy="187" rx="6" ry="9"/><ellipse cx="150" cy="192" rx="9" ry="6"/></g>
+    <path d="M191 146H216M209 140L216 146L209 152" fill="none" stroke="#9b86a2" stroke-width="2"/>
+    <rect x="230" y="81" width="218" height="134" rx="8" fill="#fff" stroke="#d7cadc" stroke-width="2"/>
+    <g fill="none" stroke="#c8b7d0" stroke-width="2"><path d="M267 117L340 105L411 121L267 117L337 175L411 121M340 105L337 175M267 117L404 177M340 105L404 177M337 175L404 177"/></g>
+    <g fill="#8a6a97"><circle cx="267" cy="117" r="6"/><circle cx="340" cy="105" r="6"/><circle cx="411" cy="121" r="6"/><circle cx="337" cy="175" r="6"/><circle cx="404" cy="177" r="6"/></g>
+    <text x="105" y="249" text-anchor="middle" font-size="26" fill="#7d6586">Slide patches</text>
+    <text x="339" y="249" text-anchor="middle" font-size="26" fill="#7d6586">Transformer</text>
+    <text x="240" y="301" text-anchor="middle" font-size="26" fill="#72577e">Context-aware slide classification</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" viewBox="0 0 480 330">
+  <rect width="480" height="330" fill="#edf3f8"/>
+  <g font-family="Source Sans 3, Arial, sans-serif">
+    <text x="28" y="35" font-size="26" fill="#567086" letter-spacing="1">VIDEO MEETS THE WEB</text>
+    <rect x="28" y="59" width="424" height="204" rx="10" fill="#fff" stroke="#c5d7e4" stroke-width="2"/>
+    <path d="M28 95H452" stroke="#dbe5ee" stroke-width="2"/>
+    <circle cx="46" cy="77" r="4" fill="#9eb3c4"/><circle cx="60" cy="77" r="4" fill="#b9cad7"/><circle cx="74" cy="77" r="4" fill="#d1dee7"/>
+    <rect x="100" y="66" width="118" height="29" rx="5" fill="#e9f1f8"/>
+    <text x="120" y="86" font-size="26" fill="#245b80">Tab Zero</text>
+    <text x="243" y="86" font-size="26" fill="#536d82">Web task</text>
+    <rect x="46" y="113" width="190" height="126" rx="5" fill="#dbe8f1"/>
+    <path d="M47 210L99 166L133 187L168 153L235 208V238H47Z" fill="#aac2d4"/>
+    <circle cx="89" cy="141" r="12" fill="#fff" opacity=".8"/>
+    <circle cx="142" cy="174" r="22" fill="#fff" opacity=".94"/>
+    <path d="M137 164L152 174L137 184Z" fill="#447492"/>
+    <rect x="56" y="220" width="169" height="4" rx="2" fill="#fff"/>
+    <rect x="56" y="220" width="65" height="4" rx="2" fill="#527d9c"/>
+    <rect x="257" y="120" width="171" height="13" rx="3" fill="#c1d2df"/>
+    <rect x="257" y="146" width="137" height="7" rx="3" fill="#e3ebf1"/>
+    <rect x="257" y="164" width="159" height="7" rx="3" fill="#e3ebf1"/>
+    <rect x="257" y="198" width="105" height="33" rx="5" fill="#245b80"/>
+    <text x="278" y="220" font-size="26" fill="#fff">Act</text>
+    <path d="M365 224L379 233L374 235L378 244L374 246L370 237L366 241Z" fill="#172d40"/>
+    <text x="240" y="299" text-anchor="middle" font-size="26" fill="#42617b">Shared browser actions</text>
+  </g>
+</svg>
