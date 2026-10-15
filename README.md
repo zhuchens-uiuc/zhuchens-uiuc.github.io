@@ -24,7 +24,7 @@ publication disclosure remain available without JavaScript.
   honors, service, and sharing metadata.
 - `publications.json`: canonical paper titles, authors, venues, links, and the
   three featured research summaries. `featured` controls their display order.
-- `CV_Zhuchen_Shao.pdf`: the downloadable CV; retain this filename when replacing it.
+- `Zhuchen_Shao.pdf`: the downloadable CV; retain this filename when replacing it.
 - `styles.css`: desktop, tablet, phone, reduced-motion, and print styles.
 - `scripts.js`: accessible topic filters and publication archive navigation.
 - `images/research/*.svg`: editable conceptual illustrations for the featured
@@ -61,8 +61,11 @@ user-approved wording: grounded interactive agents, with ongoing work described
 at the level of grounded collaboration in embodied multi-agent systems.
 The PhD start date is September 2024, explicitly confirmed by the user to match
 the updated CV.
+The October 2026 update follows the latest supplied CV, which lists StreamClarify
+as accepted to WACV 2027. The acceptance news includes the user's requested
+"See you in Orlando!" wording, and both CV links point to `Zhuchen_Shao.pdf`.
 
-- StreamClarify is **Under review**; Tab Zero is **In preparation**.
+- StreamClarify is **WACV, 2027 (accepted)**; Tab Zero is **In preparation**.
 - Embodied multi-agent planning is **Ongoing**.
 - Reported improvements retain the CV's units and comparison scope: Tab Zero is
   up to 8.0 percentage points over uniform sampling on the **filtered Ego2Web
@@ -70,13 +73,14 @@ the updated CV.
   existing streaming video QA methods. These are CV-sourced claims, not new
   experimental validations performed for the website.
 - Featured projects show resource links only when supplied in `publications.json`.
-  Tab Zero and StreamClarify currently have no resource links; their manuscript
+  Tab Zero and StreamClarify currently have no resource links; their publication
   statuses remain visible. No placeholder publication-detail links are displayed.
 
 ## Validation
 
 See [SITE_REVIEW.md](SITE_REVIEW.md) for the full content, font, and layout audit.
-Thirteen Chromium viewport widths from 320 to 1920 px passed the final layout,
+In the September 2026 review, thirteen Chromium viewport widths from 320 to
+1920 px passed the layout,
 font-loading, SVG text-boundary, publication-filter, keyboard, and direct-link
 checks. Automated axe-core checks reported no violations in the tested states.
 JavaScript-disabled reading, a blocked-font fallback, and the served CV were

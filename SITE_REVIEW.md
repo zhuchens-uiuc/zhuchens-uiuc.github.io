@@ -1,6 +1,7 @@
 # Website content, typography, and layout review
 
-Reviewed on September 13, 2026. Verification was performed locally before publishing.
+Content rechecked on October 15, 2026. The typography and browser layout review
+below was performed locally on September 13, 2026.
 
 ## Content consistency
 
@@ -12,8 +13,10 @@ Reviewed on September 13, 2026. Verification was performed locally before publis
 | Industry experience | Amazon Alexa AI, Applied Scientist Intern, May–August 2026; the news uses completed-tense wording. |
 | Education date | September 2024 start, explicitly confirmed by the user against the latest CV. |
 | Publication metadata | All 11 titles and ordered author lists match the CV after normalizing typography and whitespace. Equal-contribution markers match. |
-| Manuscript status | Tab Zero: In preparation. StreamClarify: Under review. Both agree between the featured items and full list. |
-| Unpublished resources | Neither manuscript has a Paper, Code, Project, or placeholder Publication details link. |
+| Publication status | Tab Zero: In preparation. StreamClarify: WACV, 2027 (accepted). Both agree between the featured items and full list. |
+| Project resources | Neither project has a Paper, Code, Project, or placeholder Publication details link. |
+| Acceptance news | October 2026: StreamClarify accepted to WACV 2027, followed by "See you in Orlando!" as requested by the user. |
+| CV download | Both page links point to the updated `Zhuchen_Shao.pdf`. |
 | Results | Tab Zero retains up to 8.0 percentage points in zero-shot task success rate over uniform sampling on the filtered Ego2Web subset. StreamClarify retains 1,837 QA pairs, 355 videos, three VLM backbones, and up to 8.2 percentage points in macro accuracy. |
 | Attribution cleanup | No template credit appears in the webpage or README; unused template images are removed. The existing repository LICENSE is retained. |
 
@@ -22,7 +25,11 @@ not independently reproduced. Earlier news and reviewing service come from the
 existing user-authored website; the research positioning follows the user's
 approved thesis wording. Published paper titles retain their bibliographic casing.
 
-CV SHA-256: `9e43576bb0a78a0e898ecf089b9704d571c7d0b0d476941629ad87deee5d7f6e`.
+CV SHA-256: `93184289b74a01fb3d9487e27d689e8d254c552c31bed06dc041333bec128060`.
+
+The October update was checked for generated-content consistency, local file and
+fragment references, both CV links, acceptance news, and whitespace errors.
+The browser layout checks below describe the September review.
 
 ## Typography corrections
 
